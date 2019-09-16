@@ -2,7 +2,7 @@ DensePoint
 ===
 This repository contains the code (coming) in Pytorch for the paper:
 
-__DensePoint: Learning Densely Contextual Representation for Efficient Point Cloud Processing__ 
+__DensePoint: Learning Densely Contextual Representation for Efficient Point Cloud Processing__ [[arXiv](https://arxiv.org/abs/1909.03669)]
 <br>
 [Yongcheng Liu](https://yochengliu.github.io/), [Bin Fan](http://www.nlpr.ia.ac.cn/fanbin/), [Gaofeng Meng](http://www.escience.cn/people/menggaofeng/index.html;jsessionid=EE2E193290F516D1BA8E2E35A09A9A08-n1), [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/), [Shiming Xiang](https://scholar.google.com/citations?user=0ggsACEAAAAJ&hl=zh-CN) and [Chunhong Pan](http://people.ucas.ac.cn/~0005314)
 <br>
